@@ -1,3 +1,5 @@
+# Predicting electricity supply and demand curves with functional data techniques
+
 The profitability of electricity companies in Europe, especially in Spain, has been declining due to the poor performance of liberalized activities (generation and commercialization). This decline is caused by reduced demand, decreased investment, and asset value loss from the economy’s decarbonization. In this context, precise forecasts of hourly supply and demand curves, as well as hourly prices in the wholesale electricity market, are crucial for optimizing energy buying and selling strategies.
 
 This work focuses on the daily Spanish spot market, where energy is traded for the 24 h of the following day. This market is crucial as it accounts for the highest volume of energy traded, contributing the most to the final electricity price (88.7% in 2023, according to the Spanish System Operator). Optimizing strategies in this market can significantly improve participants’ economic outcomes.
